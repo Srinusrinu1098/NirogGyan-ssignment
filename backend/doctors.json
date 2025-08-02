@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Seema Rai",
+    "specialization": "Dermatologist",
+    "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvGYshs3AKgKcA5W77fNPPgTKSjqLer7tuw&s",
+    "availability": [
+      "2025-08-01T10:00",
+      "2025-08-01T11:30"
+    ],
+    "experience": "10+ years",
+    "hospital": "SkinCare Clinic, Mumbai",
+    "qualifications": "MBBS, MD (Dermatology)",
+    "bio": "Dr. Seema Rai is a board-certified dermatologist with over a decade of experience in treating a wide range of skin, hair, and nail conditions. Her clinical expertise spans acne treatment, laser therapy, pigmentation issues, and cosmetic dermatology. Patients appreciate her warm and approachable nature, and her treatments are known for delivering long-term results. Dr. Rai stays updated with the latest dermatological research and technologies, ensuring every patient receives personalized, cutting-edge care.",
+    "editingDoctor": {
+      "id": 1,
+      "name": "Dr. Seema Rai",
+      "specialization": "Dermatologist",
+      "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvGYshs3AKgKcA5W77fNPPgTKSjqLer7tuw&s",
+      "availability": [
+        "2025-08-01T10:00",
+        "2025-08-01T11:30"
+      ],
+      "experience": "10+ years",
+      "hospital": "SkinCare Clinic, Mumbai",
+      "qualifications": "MBBS, MD (Dermatology)",
+      "bio": "Dr. Seema Rai is a board-certified dermatologist with over a decade of experience in treating a wide range of skin, hair, and nail conditions. Her clinical expertise spans acne treatment, laser therapy, pigmentation issues, and cosmetic dermatology. Patients appreciate her warm and approachable nature, and her treatments are known for delivering long-term results. Dr. Rai stays updated with the latest dermatological research and technologies, ensuring every patient receives personalized, cutting-edge care."
+    }
+  },
+  {
+    "id": 2,
+    "name": "Dr. Anil Mehra",
+    "specialization": "Cardiologist",
+    "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZqIp0YZ1e311HNQauDDnVC3CsRQT2TnDZhQ&s",
+    "availability": [
+      "2025-08-01T09:30",
+      "2025-08-01T12:00"
+    ],
+    "experience": "15+ years",
+    "hospital": "HeartCare Institute, Delhi",
+    "qualifications": "MBBS, DM (Cardiology)",
+    "bio": "Dr. Anil Mehra is one of the leading cardiologists in India, recognized for his expertise in managing complex cardiac conditions like heart failure, arrhythmias, and coronary artery disease. With over 15 years in the field, Dr. Mehra has performed numerous successful interventions including angioplasty and stent placements. His philosophy combines patient education with clinical precision, helping patients make informed decisions about their heart health. He is deeply committed to preventive cardiology and is an advocate for heart-healthy lifestyles."
+  },
+  {
+    "id": 3,
+    "name": "Dr. Priya Sharma",
+    "specialization": "Pediatrician",
+    "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSxZY09hI4kaJ2mMpWUPULHUURGhDrO6OopA&s",
+    "availability": null,
+    "experience": "8 years",
+    "hospital": "Kids Health Clinic, Bangalore",
+    "qualifications": "MBBS, MD (Pediatrics)",
+    "bio": "Dr. Priya Sharma is a compassionate pediatrician who specializes in child wellness, developmental milestones, nutrition, and vaccinations. With a gentle and friendly approach, she has built a strong bond of trust with countless parents and children. Her pediatric care is centered around both physical and emotional well-being of kids, making clinic visits a stress-free experience for little ones. Dr. Priya strongly believes in proactive parenting and educates families on healthy routines and early signs of developmental delays."
+  },
+  {
+    "id": 4,
+    "name": "Dr. Rohan Deshmukh",
+    "specialization": "Orthopedic Surgeon",
+    "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJz1wU4BJSy-ioRd_TvWFF7JLN3omSXjp19A&s",
+    "availability": [
+      "2025-08-01T14:00",
+      "2025-08-01T15:30"
+    ],
+    "experience": "12 years",
+    "hospital": "Bone & Joint Hospital, Pune",
+    "qualifications": "MBBS, MS (Ortho)",
+    "bio": "Dr. Rohan Deshmukh is a highly experienced orthopedic surgeon, known for his precision in joint replacement surgeries, arthroscopy, and sports injury rehabilitation. With a keen focus on minimally invasive techniques, he ensures faster recovery times and reduced complications for his patients. His holistic approach involves physiotherapy, nutrition, and mobility training alongside surgery. He frequently conducts awareness camps and is passionate about helping elderly patients regain mobility and independence."
+  },
+  {
+    "id": 5,
+    "name": "Dr. Meenakshi Pillai",
+    "specialization": "Gynecologist",
+    "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-n-Eb5PPHCiRyGR1vpCKxiucX1RsoZ0gEA&s",
+    "availability": [],
+    "experience": "11 years",
+    "hospital": "Women's Wellness Center, Chennai",
+    "qualifications": "MBBS, MS (Obstetrics & Gynecology)",
+    "bio": "Dr. Meenakshi Pillai is a dedicated gynecologist with vast experience in maternal care, high-risk pregnancies, PCOS, and menstrual disorders. Her compassionate counseling and patient-first philosophy make her a preferred choice among women of all age groups. She also provides expert guidance on reproductive health, fertility treatments, and postnatal care. Dr. Pillai is an active participant in community health programs focused on women's wellness."
+  },
+  {
+    "id": 6,
+    "name": "Dr. Vikram Sinha",
+    "specialization": "Neurologist",
+    "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnHdYibElscba5i2UF9qxGMVZSCI97OVGJw&s",
+    "availability": [
+      "2025-08-01T10:00",
+      "2025-08-01T12:30"
+    ],
+    "experience": "14 years",
+    "hospital": "NeuroCare Center, Hyderabad",
+    "qualifications": "MBBS, DM (Neurology)",
+    "bio": "Dr. Vikram Sinha is a senior neurologist with extensive knowledge in diagnosing and managing neurological disorders such as epilepsy, Parkinson’s, multiple sclerosis, and migraines. His analytical and empathetic nature ensures patients are heard and guided through tailored treatments. He also specializes in stroke rehabilitation and neurodegenerative diseases. Dr. Sinha is passionate about research and frequently contributes to medical journals."
+  },
+  {
+    "id": 7,
+    "name": "Dr. Ayesha Khan",
+    "specialization": "Psychiatrist",
+    "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaB31YinqEKzQXsauEIsHKf6Mo2ULyWmAaEQ&s",
+    "availability": [
+      "2025-08-01T16:00"
+    ],
+    "experience": "9 years",
+    "hospital": "MindCare Clinic, Lucknow",
+    "qualifications": "MBBS, MD (Psychiatry)",
+    "bio": "Dr. Ayesha Khan is a progressive and deeply empathetic psychiatrist known for her work in treating anxiety, depression, bipolar disorder, and adolescent mental health issues. She combines psychotherapy and medication management to create personalized mental health plans. Her calm demeanor and confidentiality practices help patients feel safe and understood. Dr. Khan is also active in mental health awareness campaigns and school wellness programs."
+  },
+  {
+    "id": 8,
+    "name": "Dr. Rajeev Nair",
+    "specialization": "General Physician",
+    "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF8RC6PJpMKPRgb8_PEnnOh2ajLvgRSNmbEA&s",
+    "availability": [
+      "2025-08-01T08:30",
+      "2025-08-01T09:30"
+    ],
+    "experience": "7 years",
+    "hospital": "Family Health Clinic, Kochi",
+    "qualifications": "MBBS",
+    "bio": "Dr. Rajeev Nair is a trusted general physician known for treating everyday illnesses like viral infections, fevers, allergies, and digestive issues. He is appreciated for his attention to detail and ability to explain medical conditions in simple terms. With a preventive care mindset, he encourages routine checkups and lifestyle adjustments to avoid future complications. Dr. Nair is also involved in public health initiatives in Kerala."
+  },
+  {
+    "id": 9,
+    "name": "Dr. Kavitha Reddy",
+    "specialization": "ENT Specialist",
+    "profileImage": "https://i0.wp.com/drpagadalasmedidentpolyclinic.com/wp-content/uploads/2018/12/Doctor-Kiranmayi-Pagadala.jpg?resize=370%2C380&ssl=1",
+    "availability": null,
+    "experience": "13 years",
+    "hospital": "Ear Nose Throat Center, Vijayawada",
+    "qualifications": "MBBS, MS (ENT)",
+    "bio": "Dr. Kavitha Reddy is an experienced ENT specialist skilled in managing ear infections, sinus surgeries, voice disorders, and hearing loss. Her practice focuses on both surgical and non-surgical solutions, including allergy testing and cochlear implants. She’s known for her detailed diagnostic evaluations and structured treatment plans. Dr. Reddy believes in family-centered care and takes time to educate patients about ear, nose, and throat health."
+  },
+  {
+    "id": 10,
+    "name": "Dr. Arjun Patel",
+    "specialization": "Urologist",
+    "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJJ2xbIMxvr42JuG8BPbNzytZg34E9-VeUlA&s",
+    "availability": [],
+    "experience": "10 years",
+    "hospital": "UroLife Hospital, Ahmedabad",
+    "qualifications": "MBBS, MS, MCh (Urology)",
+    "bio": "Dr. Arjun Patel is a seasoned urologist specializing in kidney stone treatment, prostate care, urinary incontinence, and male reproductive health. He emphasizes early detection through regular screenings and believes in combining modern diagnostics with minimally invasive surgical techniques. Dr. Patel has published multiple research papers and is passionate about spreading awareness on urological hygiene and wellness."
+  },
+  {
+    "id": 1754037034408,
+    "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnHdYibElscba5i2UF9qxGMVZSCI97OVGJw&s",
+    "bio": "Dr. Vikram Sinha is a senior neurologist with extensive knowledge in diagnosing and managing neurological disorders such as epilepsy, Parkinson’s, multiple sclerosis, and migraines. His analytical and empathetic nature ensures patients are heard and guided through tailored treatments. He also specializes in stroke rehabilitation and neurodegenerative diseases. Dr. Sinha is passionate about research and frequently contributes to medical journals.",
+    "qualifications": "MBBS, DM (Neurology)",
+    "hospital": "NeuroCare Center, Hyderabad",
+    "experience": "14 years",
+    "specialization": "Neurologist",
+    "name": "Dr. Vikram Sinha",
+    "availability": [
+      "2025-08-01T10:00",
+      "2025-08-01T12:30",
+      "2025-08-03T22:00"
+    ],
+    "editingDoctor": {
+      "id": 1754037034408,
+      "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnHdYibElscba5i2UF9qxGMVZSCI97OVGJw&s",
+      "bio": "Dr. Vikram Sinha is a senior neurologist with extensive knowledge in diagnosing and managing neurological disorders such as epilepsy, Parkinson’s, multiple sclerosis, and migraines. His analytical and empathetic nature ensures patients are heard and guided through tailored treatments. He also specializes in stroke rehabilitation and neurodegenerative diseases. Dr. Sinha is passionate about research and frequently contributes to medical journals.",
+      "qualifications": "MBBS, DM (Neurology)",
+      "hospital": "NeuroCare Center, Hyderabad",
+      "experience": "14 years",
+      "specialization": "Neurologist",
+      "name": "Dr. Vikram Sinha",
+      "availability": [
+        "2025-08-01T10:00",
+        "2025-08-01T12:30",
+        "2025-08-03T19:00"
+      ],
+      "editingDoctor": {
+        "id": 1754037034408,
+        "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnHdYibElscba5i2UF9qxGMVZSCI97OVGJw&s",
+        "bio": "Dr. Vikram Sinha is a senior neurologist with extensive knowledge in diagnosing and managing neurological disorders such as epilepsy, Parkinson’s, multiple sclerosis, and migraines. His analytical and empathetic nature ensures patients are heard and guided through tailored treatments. He also specializes in stroke rehabilitation and neurodegenerative diseases. Dr. Sinha is passionate about research and frequently contributes to medical journals.",
+        "qualifications": "MBBS, DM (Neurology)",
+        "hospital": "NeuroCare Center, Hyderabad",
+        "experience": "14 years",
+        "specialization": "Neurologist",
+        "name": "Dr. Vikram Sinha",
+        "availability": [
+          "2025-08-01T10:00",
+          "2025-08-01T12:30",
+          "2025-08-03T10:00"
+        ]
+      }
+    }
+  }
+]

@@ -20,9 +20,9 @@ A full-stack doctor appointment booking system with admin panel functionality an
 ## 📁 Folder Structure
 
 ```
-/client              → React frontend
-/server              → Node.js backend
-/screenshots         → UI screenshots
+/admin              → React frontend
+/backend              → Node.js backend
+/frontend         → UI screenshots
 ```
 
 ## 📦 Installation
@@ -30,31 +30,38 @@ A full-stack doctor appointment booking system with admin panel functionality an
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/doctor-booking-app.git
-cd doctor-booking-app
+git clone https://github.com/Srinusrinu1098/NirogGyan-ssignment.git
+
 ```
 
 ### 2. Install Dependencies
 
 ```bash
-# Frontend
-cd client
+# admin
+cd admin
 npm install
 
 # Backend
-cd ../server
+cd backend
+npm install
+
+# frontend
+cd frontend
 npm install
 ```
 
 ### 3. Run the Application
 
 ```bash
-# Start backend
-cd server
+
+# Start admin
+cd admin
 npm run dev
+# Start backend
+node server.js
 
 # Start frontend
-cd ../client
+cd frontend
 npm run dev
 ```
 
@@ -62,7 +69,7 @@ Visit: `http://localhost:3000`
 
 ## 🔐 Admin Panel
 
-- URL: `http://localhost:3000/admin`
+- URL: `https://nirog-gyan-ssignment.vercel.app/`
 - Features:
   - Add new doctor
   - Edit existing doctor
@@ -89,9 +96,7 @@ Visit: `http://localhost:3000`
    - Selects date and time
 4. Appointment is marked as "Booked"
 
-## 🖼️ Screenshots
 
-Add UI screenshots from the `/screenshots` folder.
 
 ## 📝 License
 

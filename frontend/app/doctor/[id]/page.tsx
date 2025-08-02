@@ -2,7 +2,7 @@
 
 import { notFound, useParams } from "next/navigation";
 import { useEffect, useState } from "react";
-import AppointmentBook from "@/app/AppointmentBook/page";
+import AppointmentBook from "@/app/components/AppointmentBook";
 import { Button } from "@/components/ui/button";
 import { ArrowBigLeft } from "lucide-react";
 import Link from "next/link";

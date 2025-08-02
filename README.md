@@ -20,9 +20,9 @@ A full-stack doctor appointment booking system with admin panel functionality an
 ## 📁 Folder Structure
 
 ```
-/admin              → React frontend
+/admin              → React Next.js
 /backend              → Node.js backend
-/frontend         → UI screenshots
+/frontend         → react.js Next.js
 ```
 
 ## 📦 Installation
@@ -65,7 +65,8 @@ cd frontend
 npm run dev
 ```
 
-Visit: `http://localhost:3000`
+frontend Visit: `https://nirog-gyan-ssignment-rvst.vercel.app/`
+backend Visit: `https://niroggyan-ssignment.onrender.com`
 
 ## 🔐 Admin Panel
 
@@ -95,8 +96,6 @@ Visit: `http://localhost:3000`
    - Email
    - Selects date and time
 4. Appointment is marked as "Booked"
-
-
 
 ## 📝 License
 

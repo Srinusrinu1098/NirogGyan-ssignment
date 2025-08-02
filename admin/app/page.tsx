@@ -119,7 +119,7 @@ export default function AdminPanel() {
           />
           <button
             onClick={handleAdd}
-            className="bg-green-500 text-white px-4 py-2 mt-2 rounded"
+            className="bg-green-500 cursor-pointer text-white px-4 py-2 mt-2 rounded"
           >
             Add Doctor
           </button>
@@ -169,7 +169,7 @@ export default function AdminPanel() {
 
             <button
               onClick={handleUpdate}
-              className="bg-blue-500 text-white px-4 py-2 mt-2 rounded"
+              className="bg-blue-500 cursor-pointer text-white px-4 py-2 mt-2 rounded"
             >
               Update Doctor
             </button>
@@ -197,13 +197,13 @@ export default function AdminPanel() {
                     setEditingDoctor(doc);
                     seteditAvailable(doc.availability);
                   }}
-                  className="bg-yellow-400 px-2 py-1 rounded"
+                  className="bg-yellow-400 cursor-pointer px-2 py-1 rounded"
                 >
                   Edit
                 </button>
                 <button
                   onClick={() => handleDelete(doc.id)}
-                  className="bg-red-500 text-white px-2 py-1 rounded"
+                  className="bg-red-500 cursor-pointer text-white px-2 py-1 rounded"
                 >
                   Delete
                 </button>

@@ -20,7 +20,7 @@ export default function AdminPanel() {
   const [available, setAvailable] = useState<string[]>([]);
   const [editavailable, seteditAvailable] = useState<string[]>([]);
 
-  const API = "http://localhost:5000/api/doctors"; // Adjust to your backend port
+  const API = `${process.env.NEXT_PUBLIC_URL}/api/doctors`; // Adjust to your backend port
 
   useEffect(() => {
     fetchDoctors();

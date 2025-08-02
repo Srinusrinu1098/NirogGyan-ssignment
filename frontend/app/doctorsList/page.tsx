@@ -16,7 +16,7 @@ const LandingPage: React.FC = () => {
   const [search, setSearch] = useState<string>("");
   const [doctors, setDoctors] = useState<Doctor[]>([]);
 
-  const API = "http://localhost:5000/api/doctors"; // Adjust to your backend port
+  const API = `${process.env.NEXT_PUBLIC_URL}/api/doctors`; // Adjust to your backend port
 
   useEffect(() => {
     fetchDoctors();

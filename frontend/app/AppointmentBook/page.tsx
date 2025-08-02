@@ -41,7 +41,7 @@ const AppointmentBook: React.FC<AppointmentBookProps> = ({
   const [patientEmail, setPatientEmail] = useState("");
   const [bookingStatus, setBookingStatus] = useState("");
 
-  const API = `http://localhost:5000/api/doctors/${url}`;
+  const API = `${process.env.NEXT_PUBLIC_URL}/api/doctors/${url}`;
 
   useEffect(() => {
     setOpen(bool);

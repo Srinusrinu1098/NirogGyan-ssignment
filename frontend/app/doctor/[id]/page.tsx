@@ -26,7 +26,7 @@ export default function DoctorProfile() {
   const [loading, setLoading] = useState(true);
   const [sendbool, setsendbool] = useState<boolean>(false);
 
-  const API = `http://localhost:5000/api/doctors/${doctorId}`;
+  const API = `${process.env.NEXT_PUBLIC_URL}/api/doctors/${doctorId}`;
 
   useEffect(() => {
     const fetchDoctor = async () => {

@@ -15,6 +15,7 @@ interface Doctor {
 const LandingPage: React.FC = () => {
   const [search, setSearch] = useState<string>("");
   const [doctors, setDoctors] = useState<Doctor[]>([]);
+  const [loading, setLoading] = useState(true);
 
   const API = `${process.env.NEXT_PUBLIC_URL}/api/doctors`; // Adjust to your backend port
 
@@ -26,6 +27,7 @@ const LandingPage: React.FC = () => {
     const res = await fetch(API);
     const data = await res.json();
     setDoctors(data);
+    setLoading(false);
   };
 
   const getStatus = (doctor: Doctor): string => {
@@ -33,6 +35,8 @@ const LandingPage: React.FC = () => {
     if (doctor.availability.length === 0) return "Fully Booked";
     return "Available Today";
   };
+
+  if (loading) return <div className="p-6 text-center">Loading...</div>;
 
   const filteredDoctors = doctors.filter(
     (doc) =>

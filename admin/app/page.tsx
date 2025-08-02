@@ -69,7 +69,7 @@ export default function AdminPanel() {
 
   const handleUpdate = async () => {
     if (!editingDoctor) return;
-    const newUpdated = { editingDoctor, availability: editavailable };
+    const newUpdated = { ...editingDoctor, availability: editavailable };
     await fetch(`${API}/${editingDoctor.id}`, {
       method: "PUT",
       headers: { "Content-Type": "application/json" },
